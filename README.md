@@ -26,3 +26,4 @@ Linux, Windows:
 	       python FindCrap.py -h
 
 ![alt text](https://github.com/ReldSec/FindCrap/blob/master/dbcore/FIndCrap_Start.png)
+![alt text](https://github.com/ReldSec/FindCrap/blob/master/dbcore/Status.png)
