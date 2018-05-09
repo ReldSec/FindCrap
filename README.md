@@ -1,7 +1,6 @@
 ==========================================================================
 La herramienta fue creada para el descubrimiento de directorios sensibles en aplicaciones web así como la localización de paneles de administración
 ==========================================================================
-The tool was created for the discovery of sensitive directories in web applications as well as the location of administration panels
 It is cross-platform so it can run on Windows, Android and of course, Linux
 ==========================================================================
 
@@ -19,6 +18,7 @@ Android, Termux:
 		pip2 install colorama random
 		
 		python2 FindCrap.py -h
+
 
 Linux, Windows:
 	       git clone https://github.com/ReldSec/FindCrap
