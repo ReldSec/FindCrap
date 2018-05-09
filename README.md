@@ -1,18 +1,5 @@
- /$$$$$$$$ /$$                 /$$  /$$$$$$                              
-| $$_____/|__/                | $$ /$$__  $$                             
-| $$       /$$ /$$$$$$$   /$$$$$$$| $$  \__/  /$$$$$$  /$$$$$$   /$$$$$$ 
-| $$$$$   | $$| $$__  $$ /$$__  $$| $$       /$$__  $$|____  $$ /$$__  $$
-| $$__/   | $$| $$  \ $$| $$  | $$| $$      | $$  \__/ /$$$$$$$| $$  \ $$
-| $$      | $$| $$  | $$| $$  | $$| $$    $$| $$      /$$__  $$| $$  | $$
-| $$      | $$| $$  | $$|  $$$$$$$|  $$$$$$/| $$     |  $$$$$$$| $$$$$$$/
-|__/      |__/|__/  |__/ \_______/ \______/ |__/      \_______/| $$____/ 
-                                                               | $$      
-                                                               | $$      
-                                                               |__/      
-
 ==========================================================================
 La herramienta fue creada para el descubrimiento de directorios sensibles en aplicaciones web así como la localización de paneles de administración
-Es multiplataforma por lo que puede ejecutarse en Windows, Android y desde luego, Linux
 ==========================================================================
 The tool was created for the discovery of sensitive directories in web applications as well as the location of administration panels
 It is cross-platform so it can run on Windows, Android and of course, Linux
