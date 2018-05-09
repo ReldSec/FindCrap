@@ -24,3 +24,5 @@ Linux, Windows:
 	       cd FindCrap
 	       pip install -r requirements.txt
 	       python FindCrap.py -h
+
+![alt text](https://github.com/ReldSec/FindCrap/blob/master/dbcore/FIndCrap_Start.png)
