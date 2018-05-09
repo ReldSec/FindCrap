@@ -1,6 +1,7 @@
 
 
-diff +
+```diff
++ this will be highlighted in green
 La herramienta fue creada para el descubrimiento de directorios sensibles en aplicaciones web así
 
 como la localización de paneles de administración
