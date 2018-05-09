@@ -1,4 +1,3 @@
-==========================================================================
 La herramienta fue creada para el descubrimiento de directorios sensibles en aplicaciones web así como la localización de paneles de administración
 ==========================================================================
 It is cross-platform so it can run on Windows, Android and of course, Linux
