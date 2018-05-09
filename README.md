@@ -14,6 +14,7 @@
 ==========================================================================
 
 Android, Termux:
+
 		apt install git
 		
 		git clone https://github.com/ReldSec/FindCrap
